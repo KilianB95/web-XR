@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-image: url('../web-XR/afb/tilleman.jpg');
+    
+}
+.logo{
+padding: 0px;
+}
+.tickets{
+    padding-left: 850px;
+}
+

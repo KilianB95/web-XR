@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+.container{
+    width: 1365px;
+    margin: 0 auto;
+    min-height: 910px;
+    background-image: url('../web-XR/afb/webxr.jpg');
+}
